@@ -3,6 +3,7 @@
 - I am currently studying at AGH Krakow
 - I am looking to collaborate on whatever is interesting and will make me curious
 - You can reach me via e-mail : rogolgaming159@gmail.com :)
+- https://mikrozek.github.io - my site:)
 
 <!---
 mikrozek/mikrozek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
